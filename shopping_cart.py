@@ -20,3 +20,4 @@ for item in cart:
 
 shopping_cart_total = calculate_total(cart)
 display_total(shopping_cart_total)
+
