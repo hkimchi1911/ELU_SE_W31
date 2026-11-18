@@ -1,4 +1,3 @@
-
 import unittest
 from shopping_cart import calculate_total
 
